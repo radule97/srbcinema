@@ -1,0 +1,61 @@
+/*!
+ * Start Bootstrap - 4 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+	font-family: 'Ubuntu', sans-serif !important;
+	padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+#slider {
+    margin-bottom: 20px;
+}
+.margin{
+	margin: 8px 0px -8px 0px;
+}
+.moviebg{
+	background: #222;
+	color:#FFF; 
+	border-top-right-radius: 30px;
+	overflow: hidden;
+}
+a {
+	text-decoration: none !important;
+}
+.articlemovie b{
+	color: #f58100;
+}
+.articlemovie a:hover b{
+	color: #f5c000;
+}
+.articlemovie span{
+	color: #ff0800;
+	font-style: italic;
+}
+.articlemovie a:hover span {
+	color: #f5c000;
+}
+.formlab label {
+	font-family: 'Ubuntu', sans-serif !important;
+	color: #f58100;
+}
+
+.edit-movie-link,
+.edit-movie-link:active,
+.edit-movie-link:hover {
+	color: #00d100;
+}
+.delete-movie-link:active,
+.delete-movie-link:hover,
+.delete-movie-link {
+	color: #FF0000;
+}
